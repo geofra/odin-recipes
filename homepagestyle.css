@@ -1,0 +1,72 @@
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+    }
+
+
+.pagewelcomestyle {
+    border: 8px;
+    border-style: groove;
+    border-color: rgb(9, 9, 9);
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.titlehome {
+    color: rgb(64, 163, 221);
+    background-color: rgb(206, 242, 23);
+    padding: 8px;
+    margin-top: auto;
+    margin-bottom: auto;
+    }
+
+
+.siteinfo {
+    text-align: center;
+    font-weight: bold;
+    font-size: 29px;
+    padding: 10px;
+    background-color: rgb(11, 59, 101);
+    color: rgb(221, 117, 13);
+    
+}
+
+.liststyle {
+    display: block;
+    height: auto;
+    border: 8px;
+    border-style:groove;
+    border-color: rgb(12, 12, 12);
+  
+    
+}
+.linklist {
+    color: rgb(215, 238, 10);
+    background-color: rgb(4, 117, 8);
+    text-align: center;
+    font-size: 29px;
+    font-weight: 50%;
+    padding: 10px;
+    margin-bottom: auto;
+    margin-top: auto;
+    
+
+}
+
+.links {
+    background-color: burlywood;
+    text-align: center;
+    color: rgb(198, 29, 29);
+    font-size: 20px;
+    font-weight: 25%;
+    padding: 10px;
+    margin-bottom: auto;
+    height: 100%;
+    
+    
+}
